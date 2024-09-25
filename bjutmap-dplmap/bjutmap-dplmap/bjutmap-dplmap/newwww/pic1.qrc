@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ksdh.png</file>
+        <file>shzn.png</file>
+        <file>titlen.png</file>
+        <file>newback.jpg</file>
+        <file>qjt.png</file>
+        <file>kkksdh.png</file>
+        <file>ssshzn.png</file>
+        <file>zydz.png</file>
+        <file>gdywgdyw.png</file>
+        <file>xym.png</file>
+        <file>lxwm.png</file>
+        <file>gzh.png</file>
+        <file>nnnnnziti.png</file>
+        <file>gdyww.png</file>
+        <file>gdywsec.png</file>
+        <file>shznsec.png</file>
+        <file>xyfm.png</file>
+        <file>xyfmsec.png</file>
+        <file>secxyfm.png</file>
+        <file>ksdhsec.png</file>
+        <file>333.png</file>
+        <file>shzn333.png</file>
+        <file>buildings_data_first_197.json</file>
+        <file>bjutmap.jpg</file>
+    </qresource>
+</RCC>
